@@ -1,2 +1,0 @@
-# paymentazhar.com
-Payment
